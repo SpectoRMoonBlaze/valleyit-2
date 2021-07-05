@@ -1,0 +1,71 @@
+body{
+	background: linear-gradient(45deg, aqua, blue);
+	background-attachment: fixed;
+background-size: cover;
+		font-family: 'Russo One', sans-serif;
+}
+.wrapper{
+	position: absolute;
+	top: 6%;
+	left: 48%;
+	transform: translate(-50%,-50%);
+	background: rgba(0,0,0,.0);
+}
+
+.content{
+	background: rgba(0, 0, 0, .5);
+	width: 300px;
+	height: 450px;
+	position: absolute;
+	top: 200%;
+	left: -30%;
+}
+.javascript{
+border: 2px white solid;
+width: 200px;
+height: 40px;
+border-radius: 10px;
+position: absolute;
+left: 15%;
+top: 16%;
+}
+.php{
+border: 2px white solid;
+width: 200px;
+height: 40px;
+border-radius: 10px;
+position: absolute;
+left: 15%;
+top: 30%;
+}
+.html-css{
+border: 2px white solid;
+width: 200px;
+height: 40px;
+border-radius: 10px;
+position: absolute;
+left: 15%;
+top: 44%;
+}
+.soft{
+border: 2px white solid;
+width: 200px;
+height: 40px;
+border-radius: 10px;
+position: absolute;
+left: 15%;
+top: 58%;
+}
+.more{
+border: 2px white solid;
+width: 200px;
+height: 40px;
+border-radius: 10px;
+position: absolute;
+left: 15%;
+top: 72%;
+}
+a{
+	text-decoration-style: none;
+	color: white;
+}

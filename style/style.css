@@ -1,0 +1,172 @@
+
+body{
+	background: linear-gradient(40deg, blue, aqua);
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: 'Russo One', sans-serif;
+}
+
+.wrapper{
+	position: absolute;
+	top: 6%;
+	left: 48%;
+	transform: translate(-50%,-50%);
+	background: rgba(0,0,0,.0);
+}
+
+.content-menu{
+	position: fixed;
+	background: rgba(0, 0, 0, .5);
+	height: 100px;
+	width: 1000px;
+	position: absolute;
+	left: -310%;
+	border-radius: 100px;
+	border: 3px white solid;
+}
+.content-menu:hover{
+	transition: .1s;
+	background: rgba(0, 0, 0, .5);
+	height: 100px;
+	width: 1050px;
+	position: absolute;
+	left: -319%;
+	border-radius: 100px;
+	border: 3px blue solid;
+}
+a{
+	text-decoration-style: none;
+	color: white;
+}
+
+.login-in{
+	position: absolute;
+	top: 23%;
+	left: 65%;
+	width: 120px;
+	height: 50px;
+	font-size: 20px;
+	background: none;
+	border: 2px white solid;
+	border-radius: 100px;
+	color: white;
+}
+.login-in:focus{
+	position: absolute;
+	top: 23%;
+	left: 65%;
+	width: 120px;
+	height: 50px;
+	font-size: 20px;
+	background: none;
+	border: 2px blue solid;
+	border-radius: 100px;
+	color: white;
+}
+.login-in:hover{
+
+	transition: 1s;
+	position: absolute;
+	top: 23%;
+	left: 65%;
+	width: 120px;
+	height: 50px;
+	font-size: 20px;
+	background: none;
+	border: 2px aqua solid;
+	border-radius: 100px;
+	color: white;
+}
+
+
+.registration{
+	position: absolute;
+	top: 23%;
+	left: 80%;
+	width: 120px;
+	height: 50px;
+	font-size: 20px;
+	background: none;
+	border: 2px white solid;
+	border-radius: 100px;
+	color: white;
+}
+.registration:focus{
+	position: absolute;
+	top: 23%;
+	left: 80%;
+	width: 120px;
+	height: 50px;
+	font-size: 20px;
+	background: none;
+	border: 2px blue solid;
+	border-radius: 100px;
+	color: white;
+}
+.registration:hover{
+	transition: 1s;
+	position: absolute;
+	top: 23%;
+	left: 80%;
+	width: 120px;
+	height: 50px;
+	font-size: 20px;
+	background: none;
+	border: 2px aqua solid;
+	border-radius: 100px;
+	color: white;
+}
+.contetnt-window{
+	width: 800px;
+	height: 400px;
+	background: rgba(0, 0, 0, .5);
+	position: absolute;
+	top: 500%;
+	left: -250%;
+	border: white 1px solid;
+}
+.contetnt-window1{
+	width: 800px;
+	height: 400px;
+	background: rgba(0, 0, 0, .5);
+	position: absolute;
+	top: 1150%;
+	left: -250%;
+	border: white 1px solid;
+}
+.contetnt-window2{
+	width: 800px;
+	height: 400px;
+	background: rgba(0, 0, 0, .5);
+	position: absolute;
+	top: 1800%;
+	left: -250%;
+	border: white 1px solid;
+}
+
+.sidebar{
+	background: rgba(0, 0, 0, .5);
+	width: 200px;
+	height:200px;
+	position: absolute;
+	left:-500%;
+	top: 100%;
+}
+
+.sidebar1{
+	background: rgba(0, 0, 0, .5);
+	width: 300px;
+	height:400px;
+	position: absolute;
+	left:400%;
+	top: 500%;
+}
+.sotseti{
+	width: 70px;
+	height: 300px;
+	background: rgba(0, 0, 0, .5);
+	position: absolute;
+	top: 580%;
+	left: -550px;
+}
+

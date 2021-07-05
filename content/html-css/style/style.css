@@ -1,0 +1,19 @@
+body{
+	background: linear-gradient(45deg, aqua, blue);
+	background-attachment: fixed;
+background-size: cover;
+		font-family: 'Russo One', sans-serif;
+}
+.wrapper{
+	position: absolute;
+	top: 6%;
+	left: 48%;
+	transform: translate(-50%,-50%);
+	background: rgba(0,0,0,.0);
+}
+
+.content{
+	background: black;
+	width: 300px;
+	height: 200px;
+}
